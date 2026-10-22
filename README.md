@@ -42,7 +42,7 @@ Tools: Python · Pandas · NumPy · Matplotlib
 Created line plots, pie charts, histograms, scatter plots, subplots, and heatmaps. Analyzed sales by region and product, identified outliers, and visualized data distributions and relationships.
 
 Tools: Python · Pandas · NumPy · Matplotlib · Seaborn
-### [Matplotlib-Seaborn-Data-Analysis](https://github.com/00Shravani/Matplotlib-Seaborn-Data-Analysis)
+
 🔗https://github.com/00Shravani/Matplotlib-Seaborn-Data-Analysis/blob/main/Datavisualization.ipynb
 
 ### 🏏 IPL Prediction Model Training
