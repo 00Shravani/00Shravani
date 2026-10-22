@@ -1,4 +1,8 @@
 ![Shravani's GitHub Banner](./banner.png)
+## 🇮🇳 India — Live Clock
+
+![India Live Clock](https://readmeme.eu.cc/api/timezone.svg?theme=ink&timezone=Asia%2FKolkata&timeFormat=24h)
+
 ## Hi, I'm Shravani Takawale👋
 
 ### 💜 Aspiring Data Analyst | Python Enthusiast | Lifelong Learner
