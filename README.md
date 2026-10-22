@@ -1,7 +1,4 @@
 ![Shravani's GitHub Banner](./banner.png)
-## 🇮🇳 India — Live Clock
-
-![India Live Clock](https://readmeme.eu.cc/api/timezone.svg?theme=ink&timezone=Asia%2FKolkata&timeFormat=24h)
 
 ## Hi, I'm Shravani Takawale👋
 
@@ -108,6 +105,11 @@ https://www.linkedin.com/in/shravani-takawale-335a63208?utm_source=share_via&utm
 📧 Email: shravani.takawale00@gmail.com
 
 📧 Email: shravaniqrcsolution@gmail.com
+
+---
+## 🇮🇳 India — Live Clock
+
+![India Live Clock](https://readmeme.eu.cc/api/timezone.svg?theme=ink&timezone=Asia%2FKolkata&timeFormat=24h)
 
 ---
 
