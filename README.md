@@ -1,4 +1,5 @@
-# Hi, I'm Shravani 👋
+![Shravani's GitHub Banner](./banner.png)
+## Hi, I'm Shravani 👋
 
 ### 💜 Aspiring Data Analyst | Python Enthusiast | Lifelong Learner
 
