@@ -107,10 +107,5 @@ https://www.linkedin.com/in/shravani-takawale-335a63208?utm_source=share_via&utm
 📧 Email: shravaniqrcsolution@gmail.com
 
 ---
-## 🇮🇳 India — Live Clock
-
-![India Live Clock](https://readmeme.eu.cc/api/timezone.svg?theme=ink&timezone=Asia%2FKolkata&timeFormat=24h)
-
----
 
 ⭐ Thanks for visiting my profile! Feel free to explore my projects and follow my learning journey.
