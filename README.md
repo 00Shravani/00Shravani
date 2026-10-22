@@ -31,33 +31,45 @@ Turning raw data into meaningful insights through Python, SQL, and data visualiz
 
 ## 🚀 Featured Projects
 
-### Python-Data-Visualization-Matplotlib-Pandas
-Created basic line plots with markers, grid lines, labels, and annotations. Visualized category-wise and month-wise total sales. Created pie charts to represent percentage distributions. Created a histogram to visualize product counts.
+### 📊 Python Data Visualization — Matplotlib & Pandas
+Created line plots with markers, grid lines, labels, and annotations. Visualized category-wise and month-wise sales, percentage distributions using pie charts, and product counts using histograms.
+
+Tools: Python · Pandas · NumPy · Matplotlib
 
 🔗 https://github.com/00Shravani/Python-Data-Visualization-Matplotlib-Pandas/blob/main/matplotlib.ipynb
 
-### Matplotlib-Seaborn-Data-Analysis
-Python Data Visualization project using Matplotlib, Pandas, NumPy, and Seaborn. Includes line plots, pie charts, histograms, scatter plots, subplots, and heatmaps. Analyzes sales by region and product,identifies outliers, and visualizes data distributions and relationships.
+### 📈 Matplotlib & Seaborn Data Analysis
+Created line plots, pie charts, histograms, scatter plots, subplots, and heatmaps. Analyzed sales by region and product, identified outliers, and visualized data distributions and relationships.
+
+Tools: Python · Pandas · NumPy · Matplotlib · Seaborn
 
 🔗https://github.com/00Shravani/Matplotlib-Seaborn-Data-Analysis/blob/main/Datavisualization.ipynb
 
-### IPL_Prediction_Model_Training
-IPL first-innings score prediction using Python and Machine Learning. Includes data cleaning, feature encoding, and regression models such as Random Forest, Decision Tree, and Linear Regression to predict match scores.
+### 🏏 IPL Prediction Model Training
+Predicted IPL first-innings scores using data cleaning, feature encoding, and regression models including Random Forest, Decision Tree, and Linear Regression.
+
+Tools: Python · Machine Learning · Random Forest · Decision Tree · Linear Regression
 
 🔗https://github.com/00Shravani/IPL_Prediction_Model_Training/blob/main/IPL_Prediction_Model_Training.ipynb
 
-### Diabetes_Prediction
-Diabetes Prediction using Machine Learning with Python, Pandas, NumPy, and SVM. Includes data preprocessing, standardization, train-test splitting, model training, accuracy evaluation, and a predictive system to classify diabetes outcomes.
+### 🩺 Diabetes Prediction
+Developed a diabetes prediction project using data preprocessing, standardization, train-test splitting, model training, accuracy evaluation, and a predictive system.
+
+Tools: Python · Pandas · NumPy · SVM · Machine Learning
 
 🔗https://github.com/00Shravani/Diabetes_Prediction/blob/main/Diabetes_Prediction.ipynb
 
-### Flipkart-Data-Analysis-Pandas
-Flipkart Sales Data Analysis using Python and Pandas. Includes GroupBy, aggregation, joins, concatenation, pivot tables, monthly sales analysis, payment methods, customer ratings, and product performance.
+### 🛍️ Flipkart Data Analysis — Pandas
+Analyzed monthly sales, payment methods, customer ratings, and product performance using GroupBy, aggregation, joins, concatenation, and pivot tables.
 
-🔗https://github.com/00Shravani/Diabetes_Prediction/blob/main/Diabetes_Prediction.ipynb
+Tools: Python · Pandas · Data Analysis
 
-### Pandas-Data-Cleaning-Missing-Values
-Python Pandas project for CSV data cleaning, handling missing (NULL) values, identifying data inconsistencies, and preparing datasets for accurate analysis.
+🔗https://github.com/00Shravani/Flipkart-Data-Analysis-Pandas/blob/main/flipkart_dataset_groupby_join.ipynb
+
+### 🧹 Pandas Data Cleaning — Missing Values
+Cleaned CSV datasets by handling missing values, identifying data inconsistencies, and preparing data for accurate analysis.
+
+Tools: Python · Pandas · Data Cleaning
 
 🔗https://github.com/00Shravani/Pandas-Data-Cleaning-Missing-Values/blob/main/dataframe_CSV_cleaningNULL.ipynb
 
