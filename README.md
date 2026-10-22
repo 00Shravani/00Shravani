@@ -101,7 +101,8 @@ Tools: Python · Pandas · Data Cleaning
 
 https://www.linkedin.com/in/shravani-takawale-335a63208?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-📧 Email: shravanitakawale00@gmail.com
+📧 Email: shravani.takawale00@gmail.com
+
 📧 Email: shravaniqrcsolution@gmail.com
 
 ---
